@@ -1,5 +1,6 @@
 # 🛡️ Enemy Intent Prediction System (MVP)
-
+#click here to view the live demo:
+https://enemy-intent-prediction-mvp-k2k2pjbnczpkiaerwep7qe.streamlit.app/
 ## 📌 Overview
 This is a hackathon MVP that demonstrates how AI can assist defence analysts
 in predicting enemy intent using movement and behavior parameters.
